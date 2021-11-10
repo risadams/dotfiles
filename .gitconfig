@@ -1,0 +1,7 @@
+[user]
+	email = chris@tuesdaybegins.com
+	name = Ris Adams
+[init]
+	defaultBranch = main
+[pull]
+	ff = only
